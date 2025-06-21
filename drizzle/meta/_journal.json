@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1726666094164,
+      "tag": "0000_sad_the_initiative",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1726667696307,
+      "tag": "0001_freezing_daimon_hellstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1726992921818,
+      "tag": "0002_keen_calypso",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1727156074800,
+      "tag": "0003_smooth_the_santerians",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1729520955789,
+      "tag": "0004_faulty_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1729521344955,
+      "tag": "0005_green_wasp",
+      "breakpoints": true
+    }
+  ]
+}
