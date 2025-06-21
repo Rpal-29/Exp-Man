@@ -8,7 +8,7 @@
 
 **Exp-Man** is a web-based personal finance management tool designed to help users track and manage their income, expenses, budgets, and debts efficiently. Built with a modern tech stack, it includes features for both users and admin to monitor financial data with insightful visualizations.
 
-![image alt]()
+![image alt](https://github.com/Rpal-29/Exp-Man/blob/3a9330ee87a247f57f571cd720e67355a9f00200/Screenshot%202025-06-21%20191412.png)
 
 ---
 
